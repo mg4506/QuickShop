@@ -2,7 +2,7 @@
 //  AppFont.swift
 //  eCommerce
 //
-//  Created by Imen Ksouri on 29/06/2023.
+//  Created by Munish Goel on 10/09/2024.
 //
 
 import Foundation
