@@ -1,8 +1,8 @@
 //
-//  SignUpViewModel.swift
+//  SignInViewModel.swift
 //  eCommerce
 //
-//  Created by Imen Ksouri on 19/06/2023.
+//  Created by Munish Goel on 19/09/2024.
 //
 
 import Foundation
