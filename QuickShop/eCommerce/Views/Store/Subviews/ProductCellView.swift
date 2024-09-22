@@ -1,9 +1,4 @@
-//
-//  ProductCellView.swift
-//  eCommerce
-//
-//  Created by Imen Ksouri on 30/06/2023.
-//
+
 
 import SwiftUI
 
