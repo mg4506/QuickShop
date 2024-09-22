@@ -1,9 +1,4 @@
-//
-//  ProductsListView.swift
-//  eCommerce
-//
-//  Created by Imen Ksouri on 27/06/2023.
-//
+
 
 import SwiftUI
 import FirebaseAnalytics
