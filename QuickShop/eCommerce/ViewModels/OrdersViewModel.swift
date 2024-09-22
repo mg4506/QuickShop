@@ -1,9 +1,4 @@
-//
-//  OrdersViewModel.swift
-//  eCommerce
-//
-//  Created by Imen Ksouri on 15/07/2023.
-//
+
 
 import Foundation
 import FirebaseAuth
