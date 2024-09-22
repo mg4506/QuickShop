@@ -2,8 +2,7 @@
 //  FavoriteProduct.swift
 //  eCommerce
 //
-//  Created by Imen Ksouri on 26/06/2023.
-//
+
 
 import Foundation
 
