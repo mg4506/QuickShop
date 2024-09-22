@@ -1,9 +1,4 @@
-//
-//  CategoriesListView.swift
-//  eCommerce
-//
-//  Created by Imen Ksouri on 25/06/2023.
-//
+
 
 import SwiftUI
 
