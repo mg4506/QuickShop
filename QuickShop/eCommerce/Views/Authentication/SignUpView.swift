@@ -1,9 +1,4 @@
-//
-//  SignUpView.swift
-//  eCommerce
-//
-//  Created by Imen Ksouri on 18/06/2023.
-//
+
 
 import SwiftUI
 import FirebaseAnalytics
