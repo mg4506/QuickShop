@@ -2,8 +2,7 @@
 //  AppSettingsSectionView.swift
 //  eCommerce
 //
-//  Created by Imen Ksouri on 11/07/2023.
-//
+
 
 import SwiftUI
 
