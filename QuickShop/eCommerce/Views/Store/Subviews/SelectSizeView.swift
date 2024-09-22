@@ -1,9 +1,4 @@
-//
-//  SelectSizeView.swift
-//  eCommerce
-//
-//  Created by Imen Ksouri on 05/07/2023.
-//
+
 
 import SwiftUI
 
