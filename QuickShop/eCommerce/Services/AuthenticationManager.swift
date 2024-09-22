@@ -1,9 +1,4 @@
-//
-//  AuthenticationManager.swift
-//  eCommerce
-//
-//  Created by Imen Ksouri on 17/06/2023.
-//
+
 
 import Foundation
 import FirebaseAuth
