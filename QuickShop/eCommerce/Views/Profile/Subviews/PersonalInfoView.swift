@@ -1,9 +1,4 @@
-//
-//  PersonalInfoView.swift
-//  eCommerce
-//
-//  Created by Imen Ksouri on 07/07/2023.
-//
+
 
 import SwiftUI
 
