@@ -1,9 +1,3 @@
-//
-//  PageFeatureImage.swift
-//  eCommerce
-//
-//  Created by Imen Ksouri on 01/07/2023.
-//
 
 import SwiftUI
 
