@@ -1,9 +1,4 @@
-//
-//  StoreView.swift
-//  eCommerce
-//
-//  Created by Imen Ksouri on 21/06/2023.
-//
+
 
 import SwiftUI
 
