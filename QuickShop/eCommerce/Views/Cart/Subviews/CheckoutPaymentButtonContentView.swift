@@ -1,9 +1,4 @@
-//
-//  CheckoutPaymentButtonContentView.swift
-//  eCommerce
-//
-//  Created by Imen Ksouri on 14/07/2023.
-//
+
 
 import SwiftUI
 
