@@ -1,10 +1,3 @@
-//
-//  eCommerceApp.swift
-//  eCommerce
-//
-//  Created by Imen Ksouri on 13/06/2023.
-//
-
 import SwiftUI
 import FirebaseCore
 
