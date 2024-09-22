@@ -2,7 +2,7 @@
 //  UserManager.swift
 //  eCommerce
 //
-//  Created by Imen Ksouri on 19/06/2023.
+//  Created by Munish Goel on 20/09/2024.
 //
 
 import Foundation
