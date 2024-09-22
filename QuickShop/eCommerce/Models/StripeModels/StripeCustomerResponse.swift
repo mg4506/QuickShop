@@ -1,9 +1,4 @@
-//
-//  StripeCustomerResponse.swift
-//  eCommerce
-//
-//  Created by Imen Ksouri on 12/07/2023.
-//
+
 
 import Foundation
 
